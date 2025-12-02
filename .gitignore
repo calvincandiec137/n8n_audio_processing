@@ -1,0 +1,17 @@
+
+venv/
+__pycache__/
+*.pyc
+
+*_processed.mp3
+*.tmp
+*.temp
+tmp*
+
+
+docker-data/
+*.log
+
+
+.DS_Store
+Thumbs.db
